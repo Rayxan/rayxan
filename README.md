@@ -8,6 +8,6 @@ Would you like to find me?
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCxAecMcckBF868WxxSQhq1g?view_as=subscriber)](https://www.youtube.com/channel/UCxAecMcckBF868WxxSQhq1g?view_as=subscriber)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/raylan-sales-611199150/)](https://www.linkedin.com/in/raylan-sales-611199150/)
-[![Github Badge](https://img.shields.io/github/commit-activity/w/Rayxan/RayFlix?style=plastic)](https://github.com/Rayxan/RayFlix)
+[![Github Badge](https://img.shields.io/github/last-commit/Rayxan/RayFLix?style=plastic)](https://img.shields.io/github/last-commit/Rayxan/RayFLix?style=plastic)
 
 
