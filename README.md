@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Raylan, Im from Brazil (🇧🇷). I've been interested in coding since 2016 and nowadays Im searching for developing great projects to learn more and more.
+Im Raylan, from Brazil (🇧🇷). I've been interested in coding since 2016 and nowadays Im searching for developing great projects to learn more and more.
 
-In my free time I like to watch animes,movies and tv series (📺), and I also like to listen to lo-fi musics (🎵) while Im coding.
+I like to listen to lo-fi musics(🎵) while Im coding.
 
 Would you like to find me?
 
