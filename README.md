@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/raylan-sales" target="_blank">
+  <a href="https://www.linkedin.com/in/raylan-sales-611199150/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rayxan" height="35" width="35" />
   </a>
   <a href="https://www.youtube.com/channel/UCxAecMcckBF868WxxSQhq1g" target="_blank">
