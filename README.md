@@ -1,13 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rayxan&show_icons=true&theme=dracula">
+</p>
 
-Im Raylan, from Brazil (🇧🇷). I've been interested in coding since 2016 and nowadays Im searching for developing great projects to learn more and more.
+<p align="center">
+  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rayxan&layout=compact&theme=dracula" />
+</p>
 
-I like to listen to lo-fi musics(🎵) while Im coding.
-
-Would you like to find me?
-
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCxAecMcckBF868WxxSQhq1g?view_as=subscriber)](https://www.youtube.com/channel/UCxAecMcckBF868WxxSQhq1g?view_as=subscriber)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/raylan-sales-611199150/)](https://www.linkedin.com/in/raylan-sales-611199150/)
-
-
+<p align="center">
+  <a href="https://linkedin.com/in/rayxan" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rayxan" height="35" width="35" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCxAecMcckBF868WxxSQhq1g" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="rayxan" height="35" width="35" />
+  </a>
+</p>
 
