@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rayxan" target="_blank">
+  <a href="https://linkedin.com/in/raylan-sales" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rayxan" height="35" width="35" />
   </a>
   <a href="https://www.youtube.com/channel/UCxAecMcckBF868WxxSQhq1g" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="rayxan" height="35" width="35" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rayxan" height="35" width="35" />
   </a>
 </p>
 
