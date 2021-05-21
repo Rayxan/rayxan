@@ -1,5 +1,6 @@
-
-
+<p align="center">
+:hourglass_flowing_sand: Spending my time trying to learn all incredible things related to programming.
+</p>
 <p align="center">
   <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rayxan&layout=compact&theme=dracula" />
 </p>
